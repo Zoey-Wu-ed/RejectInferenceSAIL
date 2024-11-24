@@ -1,3 +1,3 @@
-A ‘divide and conquer’ reject inference approach leveraging graph-based semi-supervised learning
-Authors: Zongxiao Wu, Yizhe Dong, Yaoyiran Li, Yaorong Liu
-Our study introduces a novel ‘divide and conquer’ graph-based RI framework that effectively captures inter-individual differences relevant to credit scoring. This framework comprises 1) spectral clustering for the categorisation of accepted and rejected applicants, 2) isolation forests for filtering rejected cases, 3) iterative relabelling mechanisms for relabelling rejected samples, and 4) binary classification for the relabelled dataset. 
+A ‘divide and conquer’ reject inference approach leveraging graph-based semi-supervised learning <br />
+Authors: Zongxiao Wu, Yizhe Dong, Yaoyiran Li, Yaorong Liu <br />
+This code introduces a novel ‘divide and conquer’ graph-based RI framework that effectively captures inter-individual differences relevant to credit scoring. This framework comprises 1) spectral clustering for the categorisation of accepted and rejected applicants, 2) isolation forests for filtering rejected cases, 3) iterative relabelling mechanisms for relabelling rejected samples, and 4) binary classification for the relabelled dataset. 
